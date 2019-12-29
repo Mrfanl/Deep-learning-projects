@@ -4,4 +4,4 @@
 
 图像重构的效果(为了效果更好，可以增大CD-k算法中的k)
 
-![alt](./rbm.png)
+![alt](https://raw.githubusercontent.com/Mrfanl/Deep-learning-projects/master/RBM-MNIST/rbm.png)
